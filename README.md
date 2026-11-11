@@ -1,4 +1,4 @@
-# F.C. Uzoezie
+# Fidelis C. Uzoezie
 
 ### Security Engineer | Cloud Security | Application Security | DevSecOps
 
