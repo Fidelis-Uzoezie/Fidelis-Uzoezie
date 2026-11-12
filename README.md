@@ -1,6 +1,7 @@
 # Fidelis C. Uzoezie
 
-### Security Engineer | Cloud Security | Application Security | DevSecOps
+### Security Engineer | Cloud Security | Application Security | DevSecOps | Security Research
+
 
 I build, secure, and test modern applications and cloud-native infrastructure.
 
